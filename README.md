@@ -139,7 +139,7 @@
 
 <h3 align="left">Achievements:</h3>
 
-[![An image of @islamV's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/islamV)](https://holopin.io/@islamV)
+[![An image of @islamv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/islamv)](https://holopin.io/@islamv)
 <br><br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
