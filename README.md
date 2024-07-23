@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/islamV/islamV/main/supun-new.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
+<h1 align="center">Hi 👋, I'm Islam Abdelkarim</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
@@ -33,17 +33,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **VDX**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Advanced backend engineering**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [islam's workspace]()
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **PHP, MySQl, laravel and Livewire C++**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **islamabdelkarimW@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences]()
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -62,24 +62,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,materialui ,vuejs" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql ,sqlite" />
   </a>
 </p>
 
@@ -93,7 +94,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
   </a>
 </p>
 
@@ -120,7 +121,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamV\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamV\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=islamV&theme=midnight-purple)](https://git.io/streak-stats)
 
@@ -147,4 +148,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">islam Abdelkarim</a></p>
