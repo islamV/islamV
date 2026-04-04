@@ -111,7 +111,7 @@ class SeniorBackendEngineer
 ## 💼 Experience
 
 <details open>
-<summary><b>🟢 Backend Engineer — Laravel &nbsp;|&nbsp; Mzaodin &nbsp;·&nbsp; 2024 – Present</b></summary>
+<summary><b>🟢 Backend Engineer — Laravel &nbsp;|&nbsp; Mzaodin &nbsp;·&nbsp; 1/2024 – 8/2024</b></summary>
 <br>
 
 - 🎛️ Built advanced admin dashboards using **Laravel Filament** and **Vue.js** components
