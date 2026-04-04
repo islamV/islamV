@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Islam%20Abdelkarim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20Engineer%20%E2%80%94%20Laravel%20%C2%B7%20Microservices%20%C2%B7%20DevOps&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+scalable+backends+%F0%9F%9A%80;Laravel+%7C+Microservices+%7C+DevOps;3%2B+Years+of+Production+Experience;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+scalable+backends+%F0%9F%9A%80;Laravel+%7C+Microservices+%7C+DevOps;Java+%7C+Spring+Boot+%7C+Payment+Systems;3%2B+Years+of+Production+Experience;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=islamV&label=Profile+Views&color=a855f7&style=for-the-badge" />
@@ -30,7 +30,7 @@ class SeniorBackendEngineer
 
     public array $currentWork = ['VDX — advanced backend platform'];
     public array $learning    = ['Advanced Microservices', 'System Design at Scale'];
-    public array $expertise   = ['Laravel 10–12', 'Filament v2–v5', 'Livewire', 'REST APIs', 'WebSockets'];
+    public array $expertise   = ['Laravel 10–12', 'Filament v2–v5', 'Spring Boot', 'REST APIs', 'WebSockets'];
 
     public string $achievement = 'Improved API performance by 40% via Redis + query optimization';
     public string $education   = 'B.Sc. Computer Science — Menoufia University (2022–2026)';
@@ -48,9 +48,9 @@ class SeniorBackendEngineer
 
 <div align="center">
 
-| 🌐 ISP & Network Systems | 🏢 ERP Platforms | 🛒 eCommerce | 📱 Microservices |
+| 💳 Payment Platforms | 🌐 ISP & Network Systems | 🏢 ERP & eCommerce | 📱 Microservices |
 |:---:|:---:|:---:|:---:|
-| MikroTik · RADIUS · Billing | Multi-module enterprise apps | Scalable storefronts | Spring Boot · Laravel · Flutter |
+| Laravel · Spring Boot · Stripe | MikroTik · RADIUS · Billing | Multi-module enterprise apps | Spring Boot · Laravel · Flutter |
 
 </div>
 
@@ -65,8 +65,8 @@ class SeniorBackendEngineer
 ![Laravel](https://img.shields.io/badge/Laravel%2010--12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament%20v2--v5-f59e0b?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### APIs & Architecture
 ![REST](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -111,7 +111,7 @@ class SeniorBackendEngineer
 ## 💼 Experience
 
 <details open>
-<summary><b>🟢 Backend Engineer — Laravel &nbsp;|&nbsp; Mzaodin &nbsp;·&nbsp; 1/2024 – 8/2024</b></summary>
+<summary><b>🟢 Backend Engineer — Laravel &nbsp;|&nbsp; Mzaodin &nbsp;·&nbsp; 2024 – 2025 · Saudi Arabia, Remote</b></summary>
 <br>
 
 - 🎛️ Built advanced admin dashboards using **Laravel Filament** and **Vue.js** components
@@ -124,13 +124,124 @@ class SeniorBackendEngineer
 <br>
 
 <details>
-<summary><b>⚪ Backend Engineer — Laravel &nbsp;|&nbsp; Q Company &nbsp;·&nbsp; 2022 – 2025</b></summary>
+<summary><b>⚪ Backend Engineer — Laravel &nbsp;|&nbsp; Q Company &nbsp;·&nbsp; 2023 – 2024 · Giza, Egypt</b></summary>
 <br>
 
 - 🏢 Developed **ERP modules** and backend systems for enterprise clients
 - 🛒 Built scalable **eCommerce platforms** and secure **online examination systems**
 - 🚀 Improved API performance by **40%** using Redis caching + database query optimization
 - 🔧 Refactored legacy systems to improve scalability, maintainability, and stability
+
+</details>
+
+---
+
+## 🗂️ Featured Projects
+
+<div align="center">
+
+| | Project | Stack | Description |
+|:---:|:---|:---|:---|
+| 💳 | **FastPay Merchant Platform** | Laravel 12 · Filament 4 · Stripe | Multi-panel payment platform with hosted checkout, quick pay links & Stripe reconciliation |
+| ☕ | **FastPay Backend** | Java 17 · Spring Boot 3 · JWT | Payment gateway — JWT auth, sessions, refunds, payouts & webhook delivery |
+| 🔨 | **Mzaodin — Auction Platform** | Laravel · Filament · WebSockets | Full auction ecosystem with live bidding, wallet system & email notifications |
+| 📖 | **[Reo — Manga Platform](https://reocomic.com/)** | Laravel 12 · React 19 · AWS | High-performance reading platform with Octane, AWS S3 & AI content moderation |
+| 🌐 | **[Star Misr Pro — ISP Platform](https://star-misr-pro.com/)** | Laravel · MikroTik · FreeRADIUS | ISP billing system with router integration, RADIUS auth & prepaid voucher automation |
+
+</div>
+
+<br>
+
+<details>
+<summary><b>💳 FastPay Merchant Platform — Laravel 12 · Filament 4 · Stripe</b></summary>
+<br>
+
+- 🏗️ Architected a **multi-subdomain** Laravel 12 app across merchant portal, system ops panel, hosted checkout, quick pay & API surface
+- 💳 Full **Stripe** card payment integration with webhook reconciliation and real-time transaction sync
+- 📊 Segmented **Filament 4** dashboards — merchant KPIs, payments monitor & developer analytics widgets
+- 🔐 Dual auth guards: merchant users vs system operators with fully isolated sessions
+- 🌍 Fully **bilingual** (Arabic / English) with translation-driven UI labels across all panels
+- 🔄 Background queue workers for async payout processing and outbound webhook delivery
+
+> `Laravel 12` `Filament 4` `MySQL` `Redis` `Stripe` `GitHub Actions` `Queue Workers` `Multi-tenant`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>☕ FastPay Backend — Java 17 · Spring Boot 3 · JWT</b></summary>
+<br>
+
+- 🔑 API key authentication that issues **JWT access + refresh tokens** with AES-encrypted merchant secrets
+- 💸 Payment session creation with generated checkout URLs, retry flows, and cancel flows
+- 📋 Paginated transaction listing with aggregate **summary endpoints** by date range and currency
+- 🔁 Refund creation with refundable-balance validation & payout creation with merchant balance checks
+- 📡 Outbound **webhook delivery** with HMAC signatures and automatic retries
+- 🧾 Full request/response **API & audit logging** on all endpoints
+
+> `Java 17` `Spring Boot 3` `Spring Security` `JWT` `MySQL` `MapStruct` `Lombok` `Maven`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🔨 Mzaodin — Auction Platform — Laravel · Filament · WebSockets</b></summary>
+<br>
+
+- 🏛️ Full admin CRUD for members, products, and auctions with live participant tracking and payment status management
+- ⚡ **Real-time bidding** via WebSockets — live auction countdowns and live bid broadcasting
+- 💰 Wallet system with subscription payments, withdrawal records, and winner invoice management
+- 📧 Automated email notifications for wins, invoices, timed payment reminders, and shipping updates
+- 🎟️ Configurable auction parameters: countdown timers, opening bid price, subscriber thresholds & payment deadlines
+
+> `Laravel` `Filament` `Livewire` `WebSockets` `MySQL` `Redis` `Queue Workers`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📖 <a href="https://reocomic.com/">Reo</a> — Manga Platform — Laravel 12 · React 19 · AWS</b></summary>
+<br>
+
+- 🚀 Built a scalable manga reading platform with RESTful APIs and an **SEO-optimized React 19 SPA**
+- ⚡ Boosted backend performance using **Laravel Octane** and Redis queue processing
+- ☁️ Integrated **AWS S3** for media storage and **AWS Comprehend** for AI-powered content moderation
+- 🔐 Secure authentication via **JWT** with multi-provider social login support
+
+> `Laravel 12` `React 19` `Redis` `AWS S3` `AWS Comprehend` `Laravel Octane` `JWT`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📱 <a href="https://sandenk.com/">Sandenk</a> — Microservices Mobile Ecosystem — Spring Boot · Laravel · Flutter</b></summary>
+<br>
+
+- 🏗️ Architected a distributed **microservices platform** — mobile apps, API services, and admin systems
+- ⚡ High-performance APIs built with **Spring Boot** and Redis caching for sub-100ms response times
+- 🛡️ Laravel Filament admin panel with advanced **RBAC permission system**
+- ☁️ AWS cloud services for scalable file storage and AI-powered content analysis
+
+> `Spring Boot` `Laravel` `Flutter` `Redis` `AWS S3` `Filament` `RBAC`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🌐 <a href="https://star-misr-pro.com/">Star Misr Pro</a> — ISP Network & Billing Platform — Laravel · MikroTik · FreeRADIUS</b></summary>
+<br>
+
+- 📡 Centralized admin dashboard for monitoring subscribers, servers, and network performance in real time
+- 🔌 **MikroTik router** and **FreeRADIUS** integration — bandwidth limits, authentication, and active session management
+- 🎟️ Automated prepaid voucher generation, tracking, and expiry system for internet access control
+- 📈 Designed to support large ISP networks with high uptime and horizontally scalable infrastructure
+
+> `Laravel` `Filament` `MikroTik API` `FreeRADIUS` `MySQL` `Redis`
 
 </details>
 
