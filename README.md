@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Islam%20Abdelkarim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20Engineer%20%E2%80%94%20Laravel%20%C2%B7%20Microservices%20%C2%B7%20DevOps&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+scalable+backends+%F0%9F%9A%80;Laravel+%7C+Microservices+%7C+DevOps;Java+%7C+Spring+Boot+%7C+Payment+Systems;3%2B+Years+of+Production+Experience;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+scalable+backends+%F0%9F%9A%80;Laravel+%7C+Microservices+%7C+DevOps;Payment+Systems;3%2B+Years+of+Production+Experience;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=islamV&label=Profile+Views&color=a855f7&style=for-the-badge" />
