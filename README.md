@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/islamV/islamV/master/assets/space-banner.svg" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/islamV/islamV/master/assets/hexagon-hero.svg" alt="Islam Abdelkarim" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=Designing+Scalable+Backend+Systems;Microservices+Architecture;High-Performance+API+Engineering;Payment+Systems+%26+Distributed+Systems;Open+to+Senior+Backend+Roles" alt="Typing SVG" />
 
@@ -135,6 +135,6 @@ I deliver production systems with:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,50:0ea5e9,100:00e5ff&height=120&section=footer&animation=twinkling" />
+<img src="https://raw.githubusercontent.com/islamV/islamV/master/assets/hexagon-banner.svg" width="100%" alt="hexagon banner" />
 
 </div>
