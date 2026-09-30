@@ -89,11 +89,11 @@ I deliver production systems with:
 
 <div align="center">
 
-<img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="49%" />
-<img src="./profile-summary-card-output/dracula/3-stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/islamV/islamV/main/profile-summary-card-output/dracula/0-profile-details.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/islamV/islamV/main/profile-summary-card-output/dracula/3-stats.svg" width="49%" />
 
-<img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
-<img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/islamV/islamV/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/islamV/islamV/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
 
 <br>
 
@@ -103,11 +103,11 @@ I deliver production systems with:
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/activity.svg?color=%23c084fc" height="26" align="absmiddle" /> Activity Graph</h2>
+<h2><img src="https://api.iconify.design/lucide/activity.svg?color=%23c084fc" height="26" align="absmiddle" /> Contribution Graph</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=islamV&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true&radius=12" />
+<img src="https://ghchart.rshah.org/a855f7/islamV" width="90%" alt="Contribution graph" />
 
 </div>
 
